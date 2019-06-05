@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 24CD-6499
+
+ Directory of C:\Users\yssen\Desktop\GIT_Project
+
+06/05/2019  02:45 PM    <DIR>          .
+06/05/2019  02:45 PM    <DIR>          ..
+06/05/2019  02:45 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  582,474,280,960 bytes free
